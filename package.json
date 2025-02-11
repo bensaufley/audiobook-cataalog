@@ -38,7 +38,7 @@
     "chroma-js": "^3.0.0",
     "clsx": "^2.1.1",
     "dayjs": "^1.11.10",
-    "esbuild": "^0.23.1",
+    "esbuild": "^0.25.0",
     "esbuild-plugin-alias-path": "^2.0.2",
     "eslint": "^8.57.0",
     "eslint-config-airbnb": "^19.0.4",
